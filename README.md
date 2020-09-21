@@ -33,7 +33,7 @@ A Data analysis project based on **quality of air in india**. It was one of the 
 - Open your git bash terminal and copy paste below code.
   ```
   cd name_of_folder_to_copy
-  git clone https://github.com/Thunderbolt9/Covid_19-analysis.git
+  git clone https://github.com/Thunderbolt9/Air-Quality-index.git
   ```
   - The above line of code first opens a folder you want and then clone the files of this repository into the folder.
 
@@ -47,7 +47,7 @@ c:\users\name\> jupyter notebook
 
 ## Links 🔗
 
-- Repository: https://github.com/Thunderbolt9/Covid_19-analysis
+- Repository:  https://github.com/Thunderbolt9/Air-Quality-index
   - In case of sensitive bugs like security vulnerabilities, please contact
     yadavyash0904@gmail.com directly instead of using issue tracker. We value your effort
     to improve the security and privacy of this project!
