@@ -1,10 +1,13 @@
 # Air quality index (AQI) 🌎 📝
 > Welcome viewers 🙂
 
-A Data analysis project based on quality of air in india. It was one of the Kaggle task to find top 3 cities in india with air pollution problem. The analysis is done using Pandas library, Ms-Excel and visualization is done using seaborn.
+A Data analysis project based on **quality of air in india**. It was one of the **Kaggle** task to find top 3 cities in india with air pollution problem. The analysis is done using Pandas library, Ms-Excel and visualization is done using seaborn.
 
+## Average city wise pollution over 5 years 📊
+![Bar plot](https://github.com/Thunderbolt9/Images/blob/master/Capture.PNG?raw=true)
 
-![Heatmap](https://github.com/Thunderbolt9/Images/blob/master/Capture.PNG?raw=true) ![Bar plot](https://raw.githubusercontent.com/Thunderbolt9/Images/master/Capture.PNG?token=APHHX5LABW6T56KEEXTTKRC7OIQGM)
+## Pollutants responsible for pollution increase 🔬
+![Heatmap](https://github.com/Thunderbolt9/Images/blob/master/Heatmap.PNG?raw=true)
 #### Languages and Tools used 🔧 :
 - Python.
 - Pandas.
